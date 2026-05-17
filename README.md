@@ -36,7 +36,7 @@ build-student-database/
 ├── courses.csv
 ├── students.csv
 └── README.md
-
+```
 
 # 🏆 Certification Project
 
